@@ -2,7 +2,7 @@
 
 The Local Farmer Marketing Platform is an initiative to bridge the gap between local farmers and consumers. By providing a user-friendly marketplace, the platform empowers farmers to showcase and sell their products directly, while enabling consumers to support sustainable agriculture and enjoy fresh, locally sourced goods.
 
-# 🚀 FEATHURE
+# 🚀 Feathure
 
 1. Farmer Registration and Profiles: Farmers can sign up, create detailed profiles, and list their products.
 
@@ -16,7 +16,7 @@ The Local Farmer Marketing Platform is an initiative to bridge the gap between l
 
 6. Location-Based Recommendations: Suggests nearby farmers and products for consumers.
 
-# 🛠️ TECHNOLOGIES
+# 🛠️ Technologies
 
 This project is built with:
 
@@ -26,15 +26,17 @@ Database: MongoDB
 Payment Integration: Stripe/PayPal
 Deployment: Docker, AWS
 
-# 🔧 INSTALLATION
+# 🔧 Installaion
 
   1. Clone the repository:
 
  git clone https://github.com/swapnilpandey026/Local-Farmer-marketing-platform
 
+
  2. Navigate to the project directory:
 
 cd local-farmer-marketing-platform  
+
 
  3. Install dependencies for the frontend and backend:
 
@@ -46,12 +48,14 @@ Frontend
 cd ../frontend  
 npm install  
 
+
  4. Configure environment variables:
 Create a .env file in the backend directory with the following:
 
 MONGO_URI=your_mongodb_connection_string  
 STRIPE_API_KEY=your_stripe_api_key  
 JWT_SECRET=your_jwt_secret  
+
 
  5. Start the development servers:
 
@@ -62,6 +66,7 @@ npm start
  Frontend  
 cd ../frontend  
 npm start  
+
 
 # 6. Access the platform in your browser at http://localhost:3000.
 
