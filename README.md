@@ -87,7 +87,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 # 🌟 Vision and Goals
 
-  The Local Farmer Marketing Platform aims to: 
+  # The Local Farmer Marketing Platform aims to: 
   
 1. Promote sustainable farming by providing direct access to consumers.
 2. Minimize food wastage through efficient local distribution.
